@@ -1,0 +1,16 @@
+{
+  "name": "as-a-programmer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Rishitha Vasireddy",
+  "license": "ISC",
+  "description": "A package that checks if you are a programmer or not",
+  "repository": {
+    "type": "git",
+    "url":"git+"
+  }
+}
